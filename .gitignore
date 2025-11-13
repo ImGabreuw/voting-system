@@ -1,0 +1,29 @@
+# Binários compilados
+server
+client
+
+# Arquivos de log e resultados
+eleicao.log
+resultado_final.txt
+test_logs/
+
+# Arquivos de debug
+*.o
+*.a
+*.so
+*.out
+core
+
+# Sanitizer
+*.dSYM/
+
+# Editor
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Temporários
+*.tmp
+*.bak
