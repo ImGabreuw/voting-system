@@ -266,8 +266,3 @@ Gerado ao executar `ADMIN CLOSE`, contém:
 - TCP Socket Programming in C: https://www.geeksforgeeks.org/socket-programming-cc/
 - Stevens, W. R. - Unix Network Programming
 
----
-
-## Licença
-
-Este projeto é desenvolvido para fins acadêmicos na disciplina de Computação Distribuída.
