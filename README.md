@@ -7,6 +7,8 @@
 - Gabriel Ken Kazama Geronazzo - 10418247
 - Lucas Pires de Camargo Sarai - 10418013
 
+> Link do repositório do projeto: https://github.com/ImGabreuw/voting-system
+
 ---
 
 ## Descrição do Projeto
